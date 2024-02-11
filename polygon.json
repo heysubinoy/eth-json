@@ -1,0 +1,26 @@
+{
+  "official_links": {
+    "website": "https://ethereum.org/en/",
+    "whitepaper": "https://ethereum.org/en/whitepaper/",
+    "documentation": "https://ethereum.org/en/developers/docs/",
+    "forum": "https://ethereum-magicians.org/",
+    "github": "https://github.com/ethereum/go-ethereum"
+  },
+  "social_platforms": {
+    "discord": "https://discord.com/invite/ethereum-org",
+    "twitter": "https://twitter.com/ethereum",
+    "reddit": "https://reddit.com/r/ethereum",
+    "community": "https://ethereum.org/community/online",
+    "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Ethereum/",
+    "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
+  },
+  "data_aggregator": [],
+  "explorers": [],
+  "bridges": [],
+  "bounty": [],
+  "grants": [],
+  "faucets": [],
+  "rpcs": [],
+  "wallets": [],
+  "oracles": []
+}
